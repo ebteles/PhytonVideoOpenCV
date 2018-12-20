@@ -4,7 +4,6 @@ Conjunto de funcionalidades em python para se trabalhar com vídeo usando OpenCV
 
 ### Instalação
 
-conda install opencv
 ```sh
 conda install -c conda-forge opencv
 ```
