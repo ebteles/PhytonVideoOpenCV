@@ -2,7 +2,7 @@
 
 Conjunto de funcionalidades em python para se trabalhar com vídeo usando OpenCV
 
-### Instalação
+### Dependência
 
 ```sh
 conda install -c conda-forge opencv
