@@ -2,7 +2,7 @@
 
 Conjunto de funcionalidades em python para se trabalhar com vídeo usando OpenCV
 
-### Dependência
+### Dependência:
 
 ```sh
 conda install -c conda-forge opencv
@@ -42,7 +42,7 @@ import frameToVideo as fv
 entrada = './images'
 fv.frame_to_video(entrada, verbose=True)
 ```
-License
+License:
 ----
 
 MIT
