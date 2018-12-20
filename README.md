@@ -2,7 +2,7 @@
 
 Conjunto de funcionalidades em python para se trabalhar com vídeo usando OpenCV
 
-### Installation
+### Instalação
 
 conda install opencv
 ```sh
