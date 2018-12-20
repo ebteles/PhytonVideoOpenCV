@@ -36,7 +36,7 @@ print('FIM')
 ```
 
 ### Exemplos 4:
-Como capturar uma sequencia de imagens em um vídeo
+Como converter uma sequencia de imagens em um vídeo
 
 ```python
 import frameToVideo as fv
